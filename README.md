@@ -1,1 +1,1 @@
-# simpletodo
+# A simple To-do list tool
